@@ -1,5 +1,3 @@
 ### CPP GRADLE PROJECT
 
-README IN CONSTRUCTION
-
-https://guides.gradle.org/building-cpp-libraries/
+CPP gradle project for more information see => https://guides.gradle.org/building-cpp-libraries/
