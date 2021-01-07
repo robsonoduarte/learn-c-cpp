@@ -2,4 +2,5 @@
 
 * [Hello World](https://github.com/robsonoduarte/learn-c/tree/master/hello-world)
 * [Clion CMake Project](https://github.com/robsonoduarte/learn-c/tree/master/cmake-project)
-* [CPP Gradle Project](https://github.com/robsonoduarte/learn-c/tree/master/gradle-project)
+* [C++ Gradle Project](https://github.com/robsonoduarte/learn-c/tree/master/gradle-project)
+* [C++ Courses](https://github.com/robsonoduarte/learn-c-cpp/tree/master/cpp-course)
