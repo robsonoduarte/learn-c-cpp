@@ -2,4 +2,4 @@
 
 The topics are:
 
-* [Hello C++](link...)
+* [Hello C++](https://github.com/robsonoduarte/learn-c-cpp/blob/cpp-course-start-readme/cpp-course/fundaments/hello.cpp)
