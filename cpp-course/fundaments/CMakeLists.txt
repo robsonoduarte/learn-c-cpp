@@ -3,5 +3,5 @@ project(fundaments)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(fundaments hello.cpp )
-add_executable(fundaments variable.cpp)
+add_executable(hello hello.cpp )
+add_executable(variables variable.cpp)
