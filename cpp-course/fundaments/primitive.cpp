@@ -19,4 +19,14 @@ int main() {
     const double PI = 3.14;
     cout << pi << endl;
     cout << PI << endl;
+
+    cout << sizeof(char) << " byte" << endl;
+    cout << sizeof(char8_t) << " byte" << endl;
+    cout << sizeof(char16_t) << " byte" << endl;
+    cout << sizeof(char32_t ) << " byte" << endl;
+    cout << sizeof(int) << " bytes" << endl;
+    cout << sizeof(long int) << " bytes" << endl;
+    cout << sizeof(long long int) << " bytes" << endl;
+    cout << sizeof(long) << " bytes" << endl;
+    cout << sizeof(double ) << " bytes" << endl;
 }
