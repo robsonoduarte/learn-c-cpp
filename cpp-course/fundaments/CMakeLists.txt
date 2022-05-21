@@ -3,10 +3,11 @@ project(fundaments)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(hello hello.cpp )
+add_executable(hello hello.cpp)
 add_executable(variables variables.cpp)
 add_executable(namespace namespace.cpp)
 add_executable(io io.cpp)
 add_executable(primitive primitive.cpp)
 add_executable(string string.cpp)
 add_executable(inference inference.cpp)
+add_executable(arithmetic arithmetic.cpp)
