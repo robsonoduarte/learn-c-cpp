@@ -12,3 +12,4 @@ The topics are:
 * [Type Inference](https://github.com/robsonoduarte/learn-c-cpp/blob/master/cpp-course/fundaments/inference.cpp)
 * [Arithmetic Operators](https://github.com/robsonoduarte/learn-c-cpp/blob/master/cpp-course/fundaments/arithmetic.cpp)
 * [Assignment Operators](https://github.com/robsonoduarte/learn-c-cpp/blob/master/cpp-course/fundaments/assignment.cpp)
+* [Relational Operators](https://github.com/robsonoduarte/learn-c-cpp/blob/master/cpp-course/fundaments/relational.cpp)
