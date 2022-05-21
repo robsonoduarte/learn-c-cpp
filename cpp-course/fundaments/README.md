@@ -11,3 +11,4 @@ The topics are:
 * [String](https://github.com/robsonoduarte/learn-c-cpp/blob/master/cpp-course/fundaments/string.cpp)
 * [Type Inference](https://github.com/robsonoduarte/learn-c-cpp/blob/master/cpp-course/fundaments/inference.cpp)
 * [Arithmetic Operators](https://github.com/robsonoduarte/learn-c-cpp/blob/master/cpp-course/fundaments/arithmetic.cpp)
+* [Assignment Operators](https://github.com/robsonoduarte/learn-c-cpp/blob/master/cpp-course/fundaments/assignment.cpp)
