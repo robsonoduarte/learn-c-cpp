@@ -16,3 +16,4 @@ The topics are:
 * [Logical Operators](https://github.com/robsonoduarte/learn-c-cpp/blob/master/cpp-course/fundaments/logical.cpp)
 * [Unary Operators](https://github.com/robsonoduarte/learn-c-cpp/blob/master/cpp-course/fundaments/unary.cpp)
 * [Ternary Operators](https://github.com/robsonoduarte/learn-c-cpp/blob/master/cpp-course/fundaments/ternary.cpp)
+* [Control Structure - if](https://github.com/robsonoduarte/learn-c-cpp/blob/master/cpp-course/fundaments/if.cpp)
