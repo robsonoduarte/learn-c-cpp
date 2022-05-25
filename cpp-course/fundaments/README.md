@@ -15,3 +15,4 @@ The topics are:
 * [Relational Operators](https://github.com/robsonoduarte/learn-c-cpp/blob/master/cpp-course/fundaments/relational.cpp)
 * [Logical Operators](https://github.com/robsonoduarte/learn-c-cpp/blob/master/cpp-course/fundaments/logical.cpp)
 * [Unary Operators](https://github.com/robsonoduarte/learn-c-cpp/blob/master/cpp-course/fundaments/unary.cpp)
+* [Ternary Operators](https://github.com/robsonoduarte/learn-c-cpp/blob/master/cpp-course/fundaments/ternary.cpp)
