@@ -17,3 +17,4 @@ The topics are:
 * [Unary Operators](https://github.com/robsonoduarte/learn-c-cpp/blob/master/cpp-course/fundaments/unary.cpp)
 * [Ternary Operators](https://github.com/robsonoduarte/learn-c-cpp/blob/master/cpp-course/fundaments/ternary.cpp)
 * [Control Structure - if](https://github.com/robsonoduarte/learn-c-cpp/blob/master/cpp-course/fundaments/if.cpp)
+* [Control Structure - if/else](https://github.com/robsonoduarte/learn-c-cpp/blob/master/cpp-course/fundaments/if_else.cpp)
