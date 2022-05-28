@@ -23,3 +23,4 @@ The topics are:
 * [Loop Structure - for](https://github.com/robsonoduarte/learn-c-cpp/blob/master/cpp-course/fundaments/for.cpp)
 * [Loop Structure - do while](https://github.com/robsonoduarte/learn-c-cpp/blob/master/cpp-course/fundaments/do_while.cpp)
 * [Switch](https://github.com/robsonoduarte/learn-c-cpp/blob/master/cpp-course/fundaments/switch.cpp)
+* [Break / Continue](https://github.com/robsonoduarte/learn-c-cpp/blob/master/cpp-course/fundaments/break_continue.cpp)
