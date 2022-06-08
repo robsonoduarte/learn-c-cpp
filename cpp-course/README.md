@@ -4,3 +4,4 @@
 
 * [Fundaments](https://github.com/robsonoduarte/learn-c-cpp/tree/master/cpp-course/fundaments)
 * [Memory(References/Pointers)](https://github.com/robsonoduarte/learn-c-cpp/tree/master/cpp-course/memory)
+* [Functions](https://github.com/robsonoduarte/learn-c-cpp/tree/master/cpp-course/functions)
