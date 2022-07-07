@@ -10,4 +10,6 @@ The topics are:
 * [Static Var](https://github.com/robsonoduarte/learn-c-cpp/blob/master/cpp-course/functions/static_var.cpp)
 * [Main](https://github.com/robsonoduarte/learn-c-cpp/blob/master/cpp-course/functions/main.cpp)
 * [Typedef](https://github.com/robsonoduarte/learn-c-cpp/blob/master/cpp-course/functions/typedef.cpp)
+* [Functions as Param](https://github.com/robsonoduarte/learn-c-cpp/blob/master/cpp-course/functions/function_param.cpp)
+* [Lambda](https://github.com/robsonoduarte/learn-c-cpp/blob/master/cpp-course/functions/lambda.cpp)
 
