@@ -10,7 +10,7 @@ int main() {
     names[3] = "Antonio";
     names[4] = "Maria";
 
-    string ages[] = {"22", "30", "50", "44", "99"};
+    string ages[] = {"22""30""50""44""99"};
 
     for (int i = 0; i < 5; i++) {
         cout << names[i] + " " + ages[i] << endl;
