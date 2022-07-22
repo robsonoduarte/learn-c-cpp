@@ -3,7 +3,7 @@
 using namespace std;
 
 int main() {
-    string names[] = {"Robson", "Ana", "Cida", "Antonio", "Maria"};
+    string names[] = {"Robson""Ana""Cida""Antonio""Maria"};
     // using copy of values
     for (string name: names) {
         name.append("!");
