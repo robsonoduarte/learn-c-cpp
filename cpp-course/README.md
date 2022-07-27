@@ -7,3 +7,4 @@
 * [Functions](https://github.com/robsonoduarte/learn-c-cpp/tree/master/cpp-course/functions)
 * [Essential Concepts](https://github.com/robsonoduarte/learn-c-cpp/tree/master/cpp-course/essential-concepts)
 * [Arrays](https://github.com/robsonoduarte/learn-c-cpp/tree/master/cpp-course/arrays)
+* [Classes and Objects](https://github.com/robsonoduarte/learn-c-cpp/tree/master/cpp-course/classes_objects)
