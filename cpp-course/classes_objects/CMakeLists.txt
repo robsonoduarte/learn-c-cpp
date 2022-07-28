@@ -4,3 +4,5 @@ project(classes_objects)
 set(CMAKE_CXX_STANDARD 14)
 
 add_executable(classes_objects classes_objects.cpp)
+add_executable(destructor destructor.cpp)
+add_executable(constructor constructor.cpp)
