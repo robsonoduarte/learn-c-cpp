@@ -7,3 +7,4 @@ The topics are:
 * [Destructor](https://github.com/robsonoduarte/learn-c-cpp/blob/master/cpp-course/classes_objects/destructor.cpp)
 * [Private](https://github.com/robsonoduarte/learn-c-cpp/blob/master/cpp-course/classes_objects/private.cpp)
 * [Copy Constructor](https://github.com/robsonoduarte/learn-c-cpp/blob/master/cpp-course/classes_objects/copy_constructor.cpp)
+* [Stack](https://github.com/robsonoduarte/learn-c-cpp/blob/master/cpp-course/classes_objects/stack.cpp)
